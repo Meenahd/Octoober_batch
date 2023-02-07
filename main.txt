@@ -1,0 +1,19 @@
+this is for our training 
+
+<html>
+ <body>
+ <hi> My first heading code base </hi>
+ <p> My first paragraph </p>
+ </body>
+ </html>
+ 
+ 
+ 
+ Create a github
+ install git on your local machine
+ create repository
+ Vs code, open file and repository folder
+ git clone
+ git add .
+ git commit -m "discription"
+git push
